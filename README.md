@@ -8,7 +8,7 @@ It is aimed to sharpen my skills for testing, logging, and best coding practices
 
 ## Dependencies
 To be able to run this, there are a few dependencies as listed below:
-- scikit-learn==0.22,
+* scikit-learn==0.22,
 - shap,
 - pylint (to see the score out of 10 for pep8 standards: pylint churn_library.py),
 - autopep8 (to automatically adjust code to follow pep8 standards: autopep8 --in-place --aggressive --aggressive churn_library.py),
