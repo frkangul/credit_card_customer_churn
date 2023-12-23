@@ -1,7 +1,5 @@
 # Predict Customer Churn
 
-Project **Predict Customer Churn**
-
 ## Project Description
 This project is intended to identify credit card customers who are most likely to churn. 
 It is aimed to sharpen my skills for testing, logging, and best coding practices with this project. 
